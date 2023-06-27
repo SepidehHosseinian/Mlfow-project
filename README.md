@@ -107,20 +107,20 @@ parameters:
 alpha: float
 l1_ratio: {type: float, default: 0.1}
 command: "python train.py --alpha {alpha} --l1_ratio {l1_ratio}"
-
+```python
 Then, you can use the following command to run your project using MLflow:
-
+```python
 mlflow run . -P alpha=0.5
-
+```python
 Serving Models
 To serve models using MLflow, you can use the following command to export your model as a MLmodel file:
-
+```python
 mlflow models build-docker -m runs:/<run-id>/model -n <model-name>
-
+```python
 Then, you can use the following command to deploy your model as a REST endpoint using Docker:
-
+```python
 docker run -p <port>:8080 <model-name>
-
+```python
 •  Write a documentation section for your README file. You should write a documentation section that provides links to more detailed and comprehensive documentation for your project. You should use the second-level heading syntax (##) for the documentation section and the list syntax (-) for each link. You should also use the link syntax (text) to link each text to its corresponding URL. For example:
 
 ## Documentation
