@@ -86,17 +86,17 @@ mlflow.log_metric("accuracy", accuracy)
 
 # Log artifacts
 mlflow.sklearn.log_model(model, "model")
-
+```
 Comparing Results
 To compare results using MLflow, you can use the following command to launch the MLflow UI:
-
+```python
 mlflow ui
-
+```
 Then, you can use your web browser to access the MLflow UI using the URL http://localhost:5000. You can then see a list of runs and their parameters, metrics, artifacts, etc. You can also use various filters and charts to compare and visualize the results.
 
 Organizing Runs
 To organize runs using MLflow, you can use the following code snippet to create a MLproject file:
-
+```python
 name: My Project
 
 conda_env: conda.yaml
@@ -107,20 +107,20 @@ parameters:
 alpha: float
 l1_ratio: {type: float, default: 0.1}
 command: "python train.py --alpha {alpha} --l1_ratio {l1_ratio}"
-```python
+```
 Then, you can use the following command to run your project using MLflow:
 ```python
 mlflow run . -P alpha=0.5
-```python
+```
 Serving Models
 To serve models using MLflow, you can use the following command to export your model as a MLmodel file:
 ```python
 mlflow models build-docker -m runs:/<run-id>/model -n <model-name>
-```python
+```
 Then, you can use the following command to deploy your model as a REST endpoint using Docker:
 ```python
 docker run -p <port>:8080 <model-name>
-```python
+```
 •  Write a documentation section for your README file. You should write a documentation section that provides links to more detailed and comprehensive documentation for your project. You should use the second-level heading syntax (##) for the documentation section and the list syntax (-) for each link. You should also use the link syntax (text) to link each text to its corresponding URL. For example:
 
 ## Documentation
@@ -142,3 +142,4 @@ docker run -p <port>:8080 <model-name>
 [Apache License 2.0](https://github.com/mlrun/mlrun/blob/master/LICENSE.txt)
 
 These are some of the steps that you can follow to create a README file for a repository about using MLflow in
+```
