@@ -136,7 +136,7 @@ docker run -p <port>:8080 <model-name>
 •  Write a license section for your README file. You should write a license section that indicates the license that your project is released under. You should use the second-level heading syntax (##) for the license section and the normal text syntax for the license name. You should also use the link syntax ([text](URL)) to link the license name to its corresponding URL. For example:
 
 
-```markdown
+
 ## License
 
 [Apache License 2.0](https://github.com/mlrun/mlrun/blob/master/LICENSE.txt)
