@@ -30,20 +30,20 @@ This repository contains an example project that demonstrates how to use MLflow 
 
 ## Features
 
-•  **](https://www.bing.com/search?form=SKPBOT&q=%29%20to%20highlight%20the%20key%20words%20or%20phrases%20in%20each%20feature.%20For%20example%3A%0D%0A%0D%0A%0D%0A%60%60%60markdown%0D%0A%23%23%20Features%0D%0A%0D%0A%E2%80%A2%20%20)Track experiments[** using MLflow Tracking API to log parameters, metrics, artifacts, etc.
+•  **]Track experiments[** using MLflow Tracking API to log parameters, metrics, artifacts, etc.
 
-•  **](https://www.bing.com/search?form=SKPBOT&q=%20using%20MLflow%20Tracking%20API%20to%20log%20parameters%2C%20metrics%2C%20artifacts%2C%20etc.%0D%0A%0D%0A%E2%80%A2%20%20)Compare results[** using MLflow UI to visualize and filter runs, metrics, artifacts, etc.
+•  **]Compare results[** using MLflow UI to visualize and filter runs, metrics, artifacts, etc.
 
-•  **](https://www.bing.com/search?form=SKPBOT&q=%20using%20MLflow%20UI%20to%20visualize%20and%20filter%20runs%2C%20metrics%2C%20artifacts%2C%20etc.%0D%0A%0D%0A%E2%80%A2%20%20)Organize runs[** using MLflow Projects API to package code, data, dependencies, etc.
+•  **]Organize runs[** using MLflow Projects API to package code, data, dependencies, etc.
 
-•  **](https://www.bing.com/search?form=SKPBOT&q=%20using%20MLflow%20Projects%20API%20to%20package%20code%2C%20data%2C%20dependencies%2C%20etc.%0D%0A%0D%0A%E2%80%A2%20%20)Serve models** using MLflow Models API to export and deploy models as REST endpoints or batch jobs.
+•  **]Serve models** using MLflow Models API to export and deploy models as REST endpoints or batch jobs.
 
 
 •  Write an installation section for your README file. You should write an installation section that provides instructions on how to install and set up your project on different platforms or environments. You should use the second-level heading syntax (##) for the installation section and the list syntax (-) or the code block syntax (```) for each instruction. You should also use the italic syntax (*) to indicate optional or alternative steps. For example:
 
 ## Installation
 
-•  Clone this repository using `git clone https://github.com/<your-username>/<your-repository-name>.git`
+•  Clone this repository using `git clone https://github.com/SepidehHosseinian/Mlfow-projec.git`
 
 •  Install Python 3.6 or higher on your machine using the official Python website or a package manager such as Anaconda.
 
@@ -139,7 +139,5 @@ docker run -p <port>:8080 <model-name>
 
 ## License
 
-[Apache License 2.0](https://github.com/mlrun/mlrun/blob/master/LICENSE.txt)
+[Apache License 2.0]
 
-These are some of the steps that you can follow to create a README file for a repository about using MLflow in
-```
