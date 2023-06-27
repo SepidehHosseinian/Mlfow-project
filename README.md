@@ -139,5 +139,5 @@ docker run -p <port>:8080 <model-name>
 
 ## License
 
-[Apache License 2.0]
+[CC0-1.0 license]
 
