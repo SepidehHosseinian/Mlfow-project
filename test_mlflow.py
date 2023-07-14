@@ -23,13 +23,3 @@ mlflow.log_metric("accuracy", accuracy)
 
 # Log artifacts
 mlflow.sklearn.log_model(model, "model")
-
-import mlflow
-from pyspark.sql.functions import struct, col
-logged_model = 'runs:/3bff5968bae1448c8c92fa0745d61163/model'
-
-# Load model as a Spark UDF. Override result_type if the model does not return double values.
-loaded_model = mlflow.pyfunc.spark_udf(spark, model_uri=logged_model, result_type='double')
-
-# Predict on a Spark DataFrame.
-df.withColumn('predictions', loaded_model(struct(*map(col, df.columns))))

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sepideh/Documents/Source/Repos/Mlfow-project/mlruns/0/22e41ffdfc8f4ba0bdb50de06975783e/artifacts
+end_time: 1689317688881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22e41ffdfc8f4ba0bdb50de06975783e
+run_name: burly-tern-635
+run_uuid: 22e41ffdfc8f4ba0bdb50de06975783e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689317688871
+status: 3
+tags: []
+user_id: sepideh

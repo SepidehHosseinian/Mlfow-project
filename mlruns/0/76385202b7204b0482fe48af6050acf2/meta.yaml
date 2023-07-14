@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sepideh/Documents/Source/Repos/Mlfow-project/mlruns/0/76385202b7204b0482fe48af6050acf2/artifacts
+end_time: 1689317690516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76385202b7204b0482fe48af6050acf2
+run_name: beautiful-ray-67
+run_uuid: 76385202b7204b0482fe48af6050acf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689317688912
+status: 3
+tags: []
+user_id: sepideh
