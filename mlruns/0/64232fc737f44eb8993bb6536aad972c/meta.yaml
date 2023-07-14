@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sepideh/Documents/Source/Repos/Mlfow-project/mlruns/0/64232fc737f44eb8993bb6536aad972c/artifacts
+end_time: 1689312940974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64232fc737f44eb8993bb6536aad972c
+run_name: skittish-donkey-704
+run_uuid: 64232fc737f44eb8993bb6536aad972c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689312940935
+status: 3
+tags: []
+user_id: sepideh

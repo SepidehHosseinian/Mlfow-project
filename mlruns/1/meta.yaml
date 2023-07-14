@@ -1,0 +1,6 @@
+artifact_location: file:///home/sepideh/Documents/Source/Repos/Mlfow-project/mlruns/1
+creation_time: 1689313945388
+experiment_id: '1'
+last_update_time: 1689313945388
+lifecycle_stage: active
+name: produce-metrics

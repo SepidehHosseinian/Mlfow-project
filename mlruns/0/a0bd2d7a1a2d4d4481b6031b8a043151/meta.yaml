@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sepideh/Documents/Source/Repos/Mlfow-project/mlruns/0/a0bd2d7a1a2d4d4481b6031b8a043151/artifacts
+end_time: 1689312781092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0bd2d7a1a2d4d4481b6031b8a043151
+run_name: hilarious-donkey-142
+run_uuid: a0bd2d7a1a2d4d4481b6031b8a043151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689312778643
+status: 3
+tags: []
+user_id: sepideh

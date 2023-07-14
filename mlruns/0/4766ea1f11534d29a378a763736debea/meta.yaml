@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sepideh/Documents/Source/Repos/Mlfow-project/mlruns/0/4766ea1f11534d29a378a763736debea/artifacts
+end_time: 1689315265175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4766ea1f11534d29a378a763736debea
+run_name: nebulous-snipe-78
+run_uuid: 4766ea1f11534d29a378a763736debea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689315265166
+status: 3
+tags: []
+user_id: sepideh

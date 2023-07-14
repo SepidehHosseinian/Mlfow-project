@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sepideh/Documents/Source/Repos/Mlfow-project/mlruns/0/baac0ac7bdc74940ada54615aec159bb/artifacts
+end_time: 1689312778471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: baac0ac7bdc74940ada54615aec159bb
+run_name: unequaled-owl-446
+run_uuid: baac0ac7bdc74940ada54615aec159bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689312778462
+status: 3
+tags: []
+user_id: sepideh

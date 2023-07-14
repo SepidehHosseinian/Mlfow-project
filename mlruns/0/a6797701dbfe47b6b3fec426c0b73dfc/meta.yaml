@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sepideh/Documents/Source/Repos/Mlfow-project/mlruns/0/a6797701dbfe47b6b3fec426c0b73dfc/artifacts
+end_time: 1689312942542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6797701dbfe47b6b3fec426c0b73dfc
+run_name: traveling-auk-595
+run_uuid: a6797701dbfe47b6b3fec426c0b73dfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689312940978
+status: 3
+tags: []
+user_id: sepideh
